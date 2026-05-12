@@ -4,7 +4,7 @@ premier projet devops
 
 ## Structure
 
-- 'index.html' - page principale
+- `index.html` - page principale
 
 ## lancer le projet
 
